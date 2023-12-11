@@ -1,7 +1,7 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0.post1
 gunicorn==21.2.0
-openai==0.28.1
+openai==1.3.8
 azure-identity==1.15.0
 python-dotenv==1.0.0 # Pinned due to docker-in-docker issue: https://github.com/devcontainers/features/issues/616
 environs==9.5.0
