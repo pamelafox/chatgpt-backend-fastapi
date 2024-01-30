@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This sample has moved to https://github.com/Azure-Samples/openai-chat-backend-fastapi
+
 # Chat with GPT models - FastAPI backend
 
 This repository includes a simple Python FastAPI app that streams responses from Azure OpenAI GPT models.
